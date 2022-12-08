@@ -9,7 +9,9 @@ function Categories() {
 
   useEffect(() => {
     dispatch(getCategories());
-  }, []);
+  }, 
+   // eslint-disable-next-line react-hooks/exhaustive-deps
+  []);
 
   console.log(categoriesData);
   return (
