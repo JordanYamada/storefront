@@ -20,14 +20,16 @@ You can run the app on your local terminal.<br/>
 How do I set up the app?<br/>
 Be sure to install all dependencies.<br/>
 
-## Testing
+<!-- ## Testing
 
 No tests written
 <!-- Run [nmp test] to run the tests.
-- Tests that User should be able to send a request. -->
+- Tests that User should be able to send a request. --> -->
 
 ## Documentation
 
 UML<br/>
 
-![Lab36 UML](./images/Lab36-UML.png)
+![Lab36 UML 1](./images/Lab36-UML.png)
+![Lab36 UML 2](./images/Lab36-UML-2.png)
+![Lab36 UML 3](./images/Lab36-UML-3.png)
